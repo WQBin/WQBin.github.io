@@ -1,2 +1,2 @@
-＃WQBin.github.io
+＃ WQBin.github.io
 博客
