@@ -1,2 +1,1 @@
-＃ WQBin.github.io
-博客
+Aoki的个人博客
