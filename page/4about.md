@@ -28,7 +28,7 @@ type: page
 ## 联系我
 
 * GitHub：[WanQBin](https://github.com/WQBin)
-* email：WanQBin2609026@gmail.com
+* email：aoki3352@163.com
 
 
 ## 关于本站
