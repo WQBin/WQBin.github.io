@@ -2,7 +2,18 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+	<!-- 标题 -->
+	<meta property="og:title" content="Aoki">
+	<!-- 网站名 -->
+	<meta property="og:site_name" content="Aoki's Blog">
+	<!-- 类型 -->
+	<meta property="og:type" content="计算机，编程">
+	<!-- 页面地址 -->
+	<meta property="og:url" content="http://aoki.ml">
+	<!-- 略缩图地址 -->
+	<meta property="og:image" content="https://github.com/WQBin/WQBin.github.io/blob/master/img/favicon%20.ico">
+	<!-- 页面的简单描述 -->
+	<meta property="og:description" content="Aoki的个人博客">
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     
